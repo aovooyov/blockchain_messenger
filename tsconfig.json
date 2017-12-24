@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "declaration": false,
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "types": [
+            "node"
+        ],
+        "target": "es5"            
+    },
+    "exclude": [],
+    "typeRoots": [
+        "node_modules/@types"
+    ]
+}
